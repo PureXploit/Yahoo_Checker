@@ -13,7 +13,8 @@ cd Yahoo_Checker
 # Usage
 ```
 python2 yahoo.py
-Begin Scanning...
+
+[ Login Your Facebook..]
 ```
 # Follow us
 https://www.facebook.com/PureXploit
